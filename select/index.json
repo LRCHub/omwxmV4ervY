@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Special Days",
+  "base_artist": "Joint Beauty",
+  "createdAt": "2025-12-14T14:36:28.248362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Special Days",
+      "artist": "Jamie Paige",
+      "has_synced": false,
+      "path": "select/01_Special_Days_Jamie_Paige.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Special days",
+      "artist": "飯田里穂",
+      "has_synced": true,
+      "path": "select/02_Special_days_飯田里穂.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Special Days (feat. Takashi Fujii & PeanutsKun)",
+      "artist": "Joint Beauty",
+      "has_synced": false,
+      "path": "select/03_Special_Days_(feat._Takashi_Fujii_&_PeanutsKun)_Joint_Beauty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Special Days (feat. 藤井隆 & ピーナッツくん)",
+      "artist": "Joint Beauty",
+      "has_synced": false,
+      "path": "select/pl_01_Special_Days_(feat._藤井隆_&_ピーナッツくん)_Joint_Beauty.txt"
+    }
+  ]
+}
